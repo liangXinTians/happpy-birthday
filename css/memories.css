@@ -2,6 +2,10 @@
 .fp-slidesNav ul li a.active span {
   background: #fff;
 }
+.img1111 {
+  max-height: 300px;
+}
+
 /* 姐姐 */
 #fp-nav ul li a span,
 .fp-slidesNav ul li a span {
